@@ -56,7 +56,7 @@ sudo apt-get install qtbase5-dev libvtk9-qt-dev cmake build-essential
 ### Build Instructions
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/baho0/VTKCropTool.git
 cd VtkCropTool
 
 # Create and enter build directory
